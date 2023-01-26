@@ -1,4 +1,4 @@
-# Data Mining Lab 1 - 108062182
+# Data Mining Basics
 
 This homework is divided into 4 different sections, where the first section will be using a dataset from sklearn and the other 3 section will be using a dataset from UCI's machine learning repository.  
 
